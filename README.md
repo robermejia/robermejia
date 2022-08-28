@@ -25,19 +25,13 @@ Apasionado por la tecnología me centro en la necesidad de escribir código limp
   <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
+  <img align="center" alt="PS" src="https://aleen42.github.io/badges/src/photoshop.svg" />
+  <img align="center" alt="AI" src="https://aleen42.github.io/badges/src/illustrator.svg" />
   <!-- <img align="center" alt="Ps" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> -->
   <!-- <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
   <!-- <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 </div><br/>
-
-### Nociones de diseño
-<div style="display: inline_block">
-  <img align="center" alt="PS" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-  <img align="center" alt="AI" src="https://aleen42.github.io/badges/src/illustrator.svg" />
-</div><br/>
-
 
 ### Formación autodidacta
 <div style="display: inline_block">
