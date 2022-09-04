@@ -1,4 +1,5 @@
-## ¡Hola! soy Roberto Mejía 🖐️
+<!-- ## ¡Hola! soy Roberto Mejía 🖐️ -->
+<img src="./assets/hola.webp">
 
 Apasionado por la tecnología me centro en la necesidad de escribir código limpio y eficiente. 
 <!-- Usando las tecnologías HTML5, CSS3, y JS entre otras.  -->
