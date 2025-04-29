@@ -35,7 +35,7 @@ Apasionado por la tecnología me centro en la necesidad de escribir código limp
 </div><br/>
 -->
 ### Tecnologías y herramientas de día a día
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,less,sass,bootstrap,php,ts,react,angular,nodejs,java,mavenn,mysql,sqlite,hibernate,scala,postman,powershell,git,bash,npm,vite,md,github,bitbucket,stackoverflow,heroku,netlify,vscode,sublime,eclipse,idea,notion,figma,ai,ps,pr,au,ae,windows,wordpress,gmail,discord,cloudflare)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,less,sass,bootstrap,php,ts,react,angular,nodejs,java,maven,hibernate,mysql,sqlite,scala,postman,powershell,git,bash,npm,vite,md,github,bitbucket,stackoverflow,heroku,netlify,vscode,sublime,eclipse,idea,notion,figma,ai,ps,pr,au,ae,windows,wordpress,gmail,discord,cloudflare)]
 
 ### Formación autodidacta
 <div style="display: inline_block">
