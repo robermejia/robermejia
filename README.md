@@ -5,7 +5,7 @@ Apasionado por la tecnología me centro en la necesidad de escribir código limp
 <!-- Usando las tecnologías HTML5, CSS3, y JS entre otras.  -->
 
 <!-- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dark&count_private=true) -->
-
+<!--
 ### Tecnologias y herramientas del día a día
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,8 +31,11 @@ Apasionado por la tecnología me centro en la necesidad de escribir código limp
   <!-- <img align="center" alt="Ps" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> -->
   <!-- <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-  <!-- <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> -->
+  <!-- <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 </div><br/>
+-->
+### Tecnologías y herramientas de día a día
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,less,sass,bootstrap,php,ts,react,angular,nodejs,java,mavenn,mysql,sqlite,hibernate,scala,postman,powershell,git,bash,npm,vite,md,github,bitbucket,stackoverflow,heroku,netlify,vscode,sublime,eclipse,idea,notion,figma,ai,ps,pr,au,ae,windows,wordpress,gmail,discord,cloudflare)]
 
 ### Formación autodidacta
 <div style="display: inline_block">
