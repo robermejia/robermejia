@@ -39,8 +39,7 @@ Apasionado por la tecnología me centro en la necesidad de escribir código limp
 
 ## 🎧 Escucha mi Top de Música en Spotify
 
-[![Reproductor de Spotify](https://i.imgur.com/3ZQ3Z2D.png)](https://open.spotify.com/playlist/2q6soIO5PsNo3URv6ua0sw?si=kyHqSYYgSJ6hHVi9z4HRqQ)
-
+[![Escúchalo en Spotify](https://img.shields.io/badge/Spotify-Mi_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2q6soIO5PsNo3URv6ua0sw)
 
 ### Formación autodidacta
 <div style="display: inline_block">
