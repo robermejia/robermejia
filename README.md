@@ -37,6 +37,11 @@ Apasionado por la tecnología me centro en la necesidad de escribir código limp
 ### Tecnologías y herramientas de día a día
 ![My Skills](https://skillicons.dev/icons?i=html,css,less,sass,bootstrap,php,js,ts,react,angular,nodejs,java,maven,hibernate,mysql,sqlite,scala,postman,powershell,git,bash,npm,vite,md,github,bitbucket,stackoverflow,heroku,netlify,vscode,sublime,eclipse,idea,notion,figma,ai,ps,pr,au,ae,windows,wordpress,gmail,discord,cloudflare)
 
+## 🎧 Escucha mi Top de Música en Spotify
+
+[![Reproductor de Spotify](https://i.imgur.com/3ZQ3Z2D.png)](https://open.spotify.com/playlist/2q6soIO5PsNo3URv6ua0sw?si=kyHqSYYgSJ6hHVi9z4HRqQ)
+
+
 ### Formación autodidacta
 <div style="display: inline_block">
   <img align="center" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=whitee" />
